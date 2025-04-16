@@ -9,7 +9,7 @@ Original file is located at
 
 #https://raw.githubusercontent.com/Dinahak/Project-Data/main/Project_data.xlsx
 
-
+import streamlit as st
 import pandas as pd
 import requests
 from io import BytesIO
