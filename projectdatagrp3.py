@@ -18,6 +18,7 @@
 
     <h2>Python Code</h2>
     <pre><code># Required Libraries
+import streamlit as st
 import pandas as pd
 import requests
 from io import BytesIO
