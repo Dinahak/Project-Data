@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Project Data Group 3</title>
     <style>
-        body { font-family: Arial, sans-serif; padding: 20px; background: #f9f9f9; }
+        st.markdown("""<style>body { ... }</style>""", unsafe_allow_html=True)  
+
         h1, h2 { color: #333; }
         pre { background: #efefef; padding: 10px; overflow-x: auto; border-radius: 6px; }
     </style>
